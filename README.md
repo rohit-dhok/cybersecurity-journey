@@ -9,4 +9,3 @@ Documenting my path from zero to penetration tester.
 
 ## Progress
 Started: April 2026
-Target: CompTIA Security+ by October 2026
