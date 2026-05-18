@@ -26,7 +26,9 @@ nmap -p- <target-ip>
 
 Scans all 65535 ports.
 
-## SYN Scan (Stealth Scan)
+## Advanced Scans
+
+### SYN Scan (Stealth Scan)
 
 ```bash
 nmap -sS <target-ip>
