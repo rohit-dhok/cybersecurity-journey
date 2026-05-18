@@ -26,5 +26,13 @@ nmap -p- <target-ip>
 
 Scans all 65535 ports.
 
+## Slightly Advanced Scans 
+
+```bash
+nmap -sS <target-ip>
+```
+
+Performs stealth scan. Does't complete third phase of 3 way handshake ( SYN SYN-ACK ACK ).
+
 ## What I Learned
 In pentesting, enumeration is often the most critical phase because it reveals the information that guides every step that follows. The more you learn about the target during enumeration, the easier it becomes to identify weaknesses and potential entry points.
